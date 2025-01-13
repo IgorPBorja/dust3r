@@ -1,3 +1,4 @@
 [submodule "croco"]
 	path = croco
-	url = https://github.com/naver/croco
+	url = git@github.com:IgorPBorja/croco.git
+	branch = master
